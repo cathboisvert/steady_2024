@@ -1,4 +1,4 @@
-from stready_calculations.math_operations import add, div
+from stready_calculations.math_operations import add, div, mult
 
 x=13.4
 y=23.4
