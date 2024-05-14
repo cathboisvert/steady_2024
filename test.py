@@ -6,3 +6,5 @@ y=23.4
 
 print("Hello, world!")
 print(add(x,y))
+
+print("Bonjour")
