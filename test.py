@@ -5,4 +5,5 @@ y=23.4
 
 print("Hello, world!")
 print(add(x,y))
-print(div(x/y))
+print(div(x,y))
+print(mult(x,y))
